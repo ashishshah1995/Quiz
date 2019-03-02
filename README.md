@@ -10,9 +10,9 @@ This is a simple Q&A web-based application using conditional statements.
 
 4.Rank the player. If the player answered all five correctly, give that player the gold crown: 3-4 is a silver crown; 1-2 correct answers is a bronze crown and 0 correct is no crown at all.
 
-To execute, open index.html and enjoy.
+-To execute, open index.html and enjoy.
 
-See js/quiz for detailed notes in the form of comments.
+-See js/quiz for detailed notes in the form of comments.
 
 
 
