@@ -1,4 +1,4 @@
-# Quiz
+# Simple Quiz
 
 This is a simple Q&A web-based application.
 
